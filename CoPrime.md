@@ -1,4 +1,4 @@
-# 互いに素
+# 互いに素(https://ja.wikipedia.org/wiki/%E4%BA%92%E3%81%84%E3%81%AB%E7%B4%A0)
 
 1. 互いに素
 2. 凸集合
