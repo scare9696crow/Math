@@ -15,4 +15,7 @@
 
 <img src="https://latex.codecogs.com/svg.image?x,&space;y&space;\in&space;\boldsymbol{H},&space;\\0&space;\leq&space;\lambda&space;\leq&space;1,\\\lambda&space;x&space;&plus;&space;(1&space;-&space;\lambda&space;)y&space;\in&space;\boldsymbol{H}" />
 
+## 1の分割
+
+<img src="https://latex.codecogs.com/svg.image?\sum_{}^{}&space;\rho&space;(x)&space;=&space;1" title="\sum_{}^{} \rho (x) = 1" />
 
