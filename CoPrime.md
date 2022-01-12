@@ -9,5 +9,5 @@
 
 ## 互いに素
 
-![互いに素](src="https://latex.codecogs.com/svg.image?\mathfrak{a}&space;&plus;&space;\mathfrak{b}&space;=&space;\{1\}")
+<img src="https://latex.codecogs.com/svg.image?\mathfrak{a}&space;&plus;&space;\mathfrak{b}&space;=&space;\{1\}">
 
