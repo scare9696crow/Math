@@ -13,6 +13,6 @@
 
 ## 凸集合
 
-<img src="https://latex.codecogs.com/svg.image?x,y&space;\in&space;\boldsymbol{H},&space;0\leqslant&space;\lamda&space;\leqslant&space;1;\lamda&space;x&space;&plus;&space;(1-\lamda)y&space;/in&space;\boldsymbol{H}&space;" title="x,y \in \boldsymbol{H}, 0\leqslant \lamda \leqslant 1;\lamda x + (1-\lamda)y /in \boldsymbol{H} " />
+<img src="https://latex.codecogs.com/svg.image?x,y&space;\in&space;\boldsymbol{H},&space;0\leqslant&space;\lamda&space;\leqslant&space;1;\lamda&space;x&space;&plus;&space;(1-\lamda)y&space;/in&space;\boldsymbol{H}&space;" title="x,y \in \boldsymbol{H}, 0\leqslant \lamda \leqslant 1;\lamda x + (1-\lamda)y /in \boldsymbol{H}" />
 
 
