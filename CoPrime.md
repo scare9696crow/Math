@@ -18,7 +18,7 @@
 
 <img src="https://latex.codecogs.com/svg.image?\sum_{}^{}&space;\rho&space;(x)&space;=&space;1" title="\sum_{}^{} \rho (x) = 1" />
 
-##[直列回路と並列回路](https://ja.wikipedia.org/wiki/%E7%9B%B4%E5%88%97%E5%9B%9E%E8%B7%AF%E3%81%A8%E4%B8%A6%E5%88%97%E5%9B%9E%E8%B7%AF)
+## [直列回路と並列回路](https://ja.wikipedia.org/wiki/%E7%9B%B4%E5%88%97%E5%9B%9E%E8%B7%AF%E3%81%A8%E4%B8%A6%E5%88%97%E5%9B%9E%E8%B7%AF)
 
 ### 抵抗の並列回路
 
