@@ -1,5 +1,4 @@
-# 互いに素(https://ja.wikipedia.org/wiki/%E4%BA%92%E3%81%84%E3%81%AB%E7%B4%A0)
-
+# 互いに素
 1. 互いに素
 2. 凸集合
 3. 1の分割
@@ -9,7 +8,7 @@
 
 ## 互いに素
 
-[互いに素】(https://ja.wikipedia.org/wiki/%E4%BA%92%E3%81%84%E3%81%AB%E7%B4%A0)
+[互いに素](https://ja.wikipedia.org/wiki/%E4%BA%92%E3%81%84%E3%81%AB%E7%B4%A0)
 
 <img src="https://latex.codecogs.com/svg.image?\mathfrak{a}&space;&plus;&space;\mathfrak{b}&space;=&space;\{1\}">
 
